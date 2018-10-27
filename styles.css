@@ -11,6 +11,9 @@ html,body {
     padding: 0;
 }
 
+.nav ul{
+    margin: 0;
+}
 
 .main-header{
     background-color: rgba(0,0,0,6, green, blue, alpha);
