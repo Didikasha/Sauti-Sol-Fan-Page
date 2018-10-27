@@ -1,3 +1,9 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+
+
 .main-header{
     background-color: rgba(0,0,0,6, green, blue, alpha);
     background-image:  url("images/sauti\ sol.jpg");
